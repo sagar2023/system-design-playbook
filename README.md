@@ -124,13 +124,3 @@ Comparisons and engineering decisions:
 * Multi-Tenancy & RBAC
 
 ---
-
-# 📈 Growth Plan
-
-Weekly Practice:
-
-* 1 High-Level Design problem
-* 1 Low-Level Design component
-* 1 Pattern deep dive
-
----
