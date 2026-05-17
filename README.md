@@ -17,7 +17,13 @@ This repository serves as:
 system-design-playbook/
 │
 ├── HLD/                # High-Level Design case studies
+│   ├── README.md       # HLD overview, patterns, capacity cheat sheet
+│   ├── template.md     # Blank HLD problem template
+│   └── <problem>/      # Individual problem folders
 ├── LLD/                # Low-Level Design implementations
+│   ├── README.md       # LLD overview, patterns, SOLID checklist
+│   ├── template.md     # Blank LLD problem template
+│   └── <problem>/      # Individual problem folders
 ├── Patterns/           # Reusable architecture patterns
 ├── Tradeoffs/          # Technology & design comparisons
 ├── Case-Studies/       # Real-world system breakdowns
